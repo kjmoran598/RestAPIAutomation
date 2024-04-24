@@ -21,8 +21,9 @@ public class Basics {
 		
 		//Add place, update place with new address, get place and validate Place ID
 		
+		//Add place, update place with new address, get place and validate Place ID
 		
-		
+		//Moran is the best
 
 	}
 
